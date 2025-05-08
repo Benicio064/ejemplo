@@ -7,3 +7,48 @@ body{
     background-color: brown;
 }
 
+
+.nombre{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 250px;
+    border-top: 8px aqua solid;
+    border-right: 10px red dashed;
+    border-bottom: 8px rgba(23, 23, 238, 0.849) dotted;
+    border-left: 8px red dashed;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
+
+.parrafonacho{
+    color: darkblue;
+    font-size: 36px;
+    text-align: right;
+}
+
+.parrafoempanada{
+    color: rgb(161, 76, 16);
+    font-size: 40px;
+    text-align: center;
+}
+
+.parrafobeni{
+    color: rgb(54, 6, 90);
+    font-size: 40px;
+    text-align: left;
+}
+
+.parrafojoni{
+    color: green;
+    font-size: 36px;
+    text-align: justify;
+}
+
+.parrafojuan{
+    color: black;
+    font-size: 40px;
+    text-align: end;
+}
